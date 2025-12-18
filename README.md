@@ -8,7 +8,7 @@ A Flutter application that generates visual rankings using the OpenAI ChatGPT AP
 
 ## Demo
 
-[Watch the demo video](rankify.mp4)
+https://github.com/user-attachments/assets/499f2211-a95b-4979-aeb2-0c4fb0dad7da
 
 ---
 
